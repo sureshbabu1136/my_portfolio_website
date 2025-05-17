@@ -4,6 +4,9 @@
     position: relative;
      display: block; 
 } */
+ body{
+    background-color: rgb(58, 54, 54);
+ }
     .intro {
       position: relative;
       width: 100%;
@@ -40,7 +43,7 @@
     @media screen and (max-width: 576px) {
       .main_intro {
         top: auto;
-        bottom: 5%;
+        bottom: 35%;
         right: 50%;
         transform: translateX(50%);
         text-align: center;
@@ -52,6 +55,10 @@
         display: none;
         }
         .intro{
-              background-image: url("source/mypic.jpeg");
+              background-image: url("source/mypic_1-Picsart-AiImageEnhancer.jpg");
+              background-size: cover;
         }
+    }
+    .skill_name{
+        text-decoration: underline;
     }
