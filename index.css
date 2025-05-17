@@ -62,3 +62,81 @@
     .skill_name{
         text-decoration: underline;
     }
+    .html_1{
+        width: 250px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .css_1{
+        width: 200px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .css_2{
+        width: 50px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
+    .js_1{
+        width: 150px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .js_2{
+        width: 100px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
+    .bs_1{
+        width: 170px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .bs_2{
+        width: 80px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
+    .py_1{
+        width: 220px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .py_2{
+        width: 30px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
+    .mysql_1{
+        width: 150px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .mysql_2{
+        width: 100px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
+    .fl_1{
+        width: 150px;
+        height: 5px;
+        background-color: whitesmoke;
+        border-radius: 10px
+    }
+    .fl_2{
+        width: 100px;
+        height: 5px;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px
+    }
